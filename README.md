@@ -1,4 +1,4 @@
-# ContractScan (Hackathon MVP)
+# ContractScan 
 
 ContractScan is a vertical SaaS for legal contract review, built for a 48-hour hackathon. It allows users to upload PDF contracts and receive AI-generated risk analysis using Google Gemini.
 
