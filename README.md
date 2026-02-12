@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 📜 ContractScan
+=======
+# ContractScan 
+>>>>>>> 815fd0b083e15f6bdee89696b32b7bbce1be9ea4
 
 **AI-Powered Contract Analysis & Risk Assessment Platform**
 
